@@ -364,6 +364,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 - [lust](https://github.com/bjornbytes/lust) - Minimal test framework.
 - [luaunit](https://github.com/bluebird75/luaunit) - xUnit style lua testing framework
 - [simple_test](https://github.com/EvandroLG/simple_test) - A minimalist and easy-to-use Lua unit testing framework
+- [Leste](https://github.com/AdaiasMagdiel/Leste) - A elegant testing framework inspired by PestPHP and pytest.
 
 
 ### Foreign Function Interfaces
