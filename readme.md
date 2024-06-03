@@ -123,6 +123,8 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 - [Lite-XL](https://github.com/lite-xl/lite-xl) - A lightweight text editor written (and customized) in Lua 
 - [vscode-lua by sumneko](https://github.com/sumneko/vscode-lua) - New VSCode plugin with advanced intellisense, linting, EmmyLua annotations, etc.
 - [LuaLu](https://apps.apple.com/us/app/lualu-repl-learn-lua-coding/id638219114) - A Lua IDE on iOS devices with Terminal and Code editor supporting syntax highlight
+- [Pulsar](https://pulsar-edit.dev/) - A Community-led, hackable text editor.
+
 
 ### Utility Belts
 - [Lua Fun](https://github.com/luafun/luafun) - High-performance functional programming library designed for LuaJIT.
