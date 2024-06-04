@@ -124,6 +124,10 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 - [vscode-lua by sumneko](https://github.com/sumneko/vscode-lua) - New VSCode plugin with advanced intellisense, linting, EmmyLua annotations, etc.
 - [LuaLu](https://apps.apple.com/us/app/lualu-repl-learn-lua-coding/id638219114) - A Lua IDE on iOS devices with Terminal and Code editor supporting syntax highlight
 - [Pulsar](https://pulsar-edit.dev/) - A Community-led, hackable text editor.
+  - [atom-autocomplete-lua](https://github.com/dapetcu21/atom-autocomplete-lua) - Autocomplete for Lua
+  - [language-lua](https://github.com/FireZenk/language-lua) - Add syntax highlighting and snippets to .lua files
+  - [love-ide](https://github.com/rameshvarun/love-ide) - Auto-installs several utilities for writing Love2D games in Pulsar
+  - [autocomplete-love](https://github.com/rameshvarun/autocomplete-love) - Auto-complete and snippets for LÖVE
 
 
 ### Utility Belts
