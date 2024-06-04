@@ -126,7 +126,7 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 - [Pulsar](https://pulsar-edit.dev/) - A Community-led, hackable text editor.
   - [atom-autocomplete-lua](https://github.com/dapetcu21/atom-autocomplete-lua) - Autocomplete for Lua
   - [language-lua](https://github.com/FireZenk/language-lua) - Add syntax highlighting and snippets to .lua files
-  - [love-ide](https://github.com/rameshvarun/love-ide) - Auto-installs several utilities for writing Love2D games in Pulsar
+  - [love-ide](https://github.com/rameshvarun/love-ide) - Auto-installs several utilities for writing LÖVE games in Pulsar
   - [autocomplete-love](https://github.com/rameshvarun/autocomplete-love) - Auto-complete and snippets for LÖVE
 
 
