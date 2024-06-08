@@ -153,6 +153,7 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 - [HARFANG 3D](https://www.harfang3D.com) - 3D & VR and multimedia framework. Brings OpenGL, OpenVR, Bullet Physics to Lua.
 - [LuaStudio](http://scormpool.com/luastudio) - Free Cross-Platform framework/development tool for making 2D/3D games with Lua/LuaJIT, compatible iOS, Android, Mac and Windows devices.
 - [nCine](https://ncine.github.io/) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua.
+- [Cubzh](https://cu.bzh) - Open source, cross-platform UGC voxel game engine to create games and experiences using a Lua scripting API
 
 
 ### Game Development
@@ -165,7 +166,7 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
   - [HUMP](http://vrld.github.io/hump/) - A set of lightweight helpers for LÖVE; a game-oriented utility belt.
   - [love-imgui](https://github.com/slages/love-imgui) - Bindings of awesome ImGUI library for Love2D.
 - MOAI
-  - [moaifiddle](https://moaifiddle.com) - Edit and share short scripts for the MOAI game engine and run them in the browser using WebGL.
+  - [moaifiddle](https://moaifiddle.com) - Edit and share short scripts for the MOAI game engine and run them in the browser using WebGL. 
 - [Jumper](https://github.com/Yonaba/Jumper) - Fast, lightweight, and easy-to-use pathfinding library for grid-based games.
 - [lume](https://github.com/rxi/lume/) - Utility belt library geared toward game development.
 - [NoobHub](https://github.com/Overtorment/NoobHub) - Network multiplayer for Corona, LÖVE, and more, following a simple pub-sub model.
