@@ -222,6 +222,8 @@ Search this page for 'OpenResty' to find related packages under other categories
 - [argparse](https://github.com/mpeterv/argparse) - A feature-rich command line parser inspired by argparse for Python.
 - [Sirocco](https://github.com/giann/sirocco) - 🦜 A collection of highly customizable interactive command line prompts.
 - [ami](https://github.com/alis-is/ami) - Application setup/configuration/runtime scripting and templating.
+- [warna](https://github.com/cattokomo/warna) - Terminal text styling library for Lua
+
 
 ### Concurrency and Multithreading
 - Coroutine-based multitasking:
