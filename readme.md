@@ -6,56 +6,54 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 
 ## Packages
-- [Awesome Lua ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-lua-)
-  - [Packages](#packages)
-  - [Resources](#resources)
-    - [Implementations, Interpreters, and Bindings](#implementations-interpreters-and-bindings)
-    - [Package Managers](#package-managers)
-    - [Build Tools and Standalone Makers](#build-tools-and-standalone-makers)
-    - [Debugging and Profiling](#debugging-and-profiling)
-    - [IDEs and Plugins](#ides-and-plugins)
-    - [Utility Belts](#utility-belts)
-    - [Game Engines](#game-engines)
-    - [Game Development](#game-development)
-    - [Logging](#logging)
-    - [Web/Networking Platforms](#webnetworking-platforms)
-    - [OpenResty](#openresty)
-    - [Command-line Utilities](#command-line-utilities)
-    - [Concurrency and Multithreading](#concurrency-and-multithreading)
-    - [Templating](#templating)
-    - [Documentation](#documentation)
-    - [Object-oriented Programming](#object-oriented-programming)
-    - [File system and OS](#file-system-and-os)
-    - [Time and Date](#time-and-date)
-    - [Image Manipulation](#image-manipulation)
-    - [Digital Signal Processing](#digital-signal-processing)
-    - [Hardware and Embedded Systems](#hardware-and-embedded-systems)
-    - [Math and Scientific Computing](#math-and-scientific-computing)
-    - [Parsing and Serialization](#parsing-and-serialization)
-    - [Humanize](#humanize)
-    - [Compression](#compression)
-    - [Cryptography](#cryptography)
-    - [Network](#network)
-    - [Data Stores](#data-stores)
-    - [Message Brokers](#message-brokers)
-    - [Testing](#testing)
-    - [Foreign Function Interfaces](#foreign-function-interfaces)
-    - [Analysis Tools and ASTs](#analysis-tools-and-asts)
-    - [Experimental, etc](#experimental-etc)
-    - [Scriptable by Lua](#scriptable-by-lua)
-    - [Miscellaneous](#miscellaneous)
-  - [Resources](#resources-1)
-    - [Community](#community)
-    - [References](#references)
-    - [Glossaries](#glossaries)
-    - [Style Guides](#style-guides)
-    - [Tutorials](#tutorials)
-    - [Articles](#articles)
-    - [Talks & Slides](#talks--slides)
-    - [Books](#books)
-    - [Other Lists](#other-lists)
-  - [Contribute](#contribute)
-  - [License](#license)
+- [Resources](#resources)
+  - [Implementations, Interpreters, and Bindings](#implementations-interpreters-and-bindings)
+  - [Package Managers](#package-managers)
+  - [Build Tools and Standalone Makers](#build-tools-and-standalone-makers)
+  - [Debugging and Profiling](#debugging-and-profiling)
+  - [IDEs and Plugins](#ides-and-plugins)
+  - [Utility Belts](#utility-belts)
+  - [Game Engines](#game-engines)
+  - [Game Development](#game-development)
+  - [Logging](#logging)
+  - [Web/Networking Platforms](#webnetworking-platforms)
+  - [OpenResty](#openresty)
+  - [Command-line Utilities](#command-line-utilities)
+  - [Concurrency and Multithreading](#concurrency-and-multithreading)
+  - [Templating](#templating)
+  - [Documentation](#documentation)
+  - [Object-oriented Programming](#object-oriented-programming)
+  - [File system and OS](#file-system-and-os)
+  - [Time and Date](#time-and-date)
+  - [Image Manipulation](#image-manipulation)
+  - [Digital Signal Processing](#digital-signal-processing)
+  - [Hardware and Embedded Systems](#hardware-and-embedded-systems)
+  - [Math and Scientific Computing](#math-and-scientific-computing)
+  - [Parsing and Serialization](#parsing-and-serialization)
+  - [Humanize](#humanize)
+  - [Compression](#compression)
+  - [Cryptography](#cryptography)
+  - [Network](#network)
+  - [Data Stores](#data-stores)
+  - [Message Brokers](#message-brokers)
+  - [Testing](#testing)
+  - [Foreign Function Interfaces](#foreign-function-interfaces)
+  - [Analysis Tools and ASTs](#analysis-tools-and-asts)
+  - [Experimental, etc](#experimental-etc)
+  - [Scriptable by Lua](#scriptable-by-lua)
+  - [Miscellaneous](#miscellaneous)
+- [Resources](#resources-1)
+  - [Community](#community)
+  - [References](#references)
+  - [Glossaries](#glossaries)
+  - [Style Guides](#style-guides)
+  - [Tutorials](#tutorials)
+  - [Articles](#articles)
+  - [Talks & Slides](#talks--slides)
+  - [Books](#books)
+  - [Other Lists](#other-lists)
+- [Contribute](#contribute)
+- [License](#license)
 
 
 ## Resources
@@ -94,6 +92,7 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 ### Package Managers
 - [LuaRocks](https://luarocks.org/) - De-facto tool for installing Lua modules as packages called "rocks", plus public rock repository and website.  Much like npm or pip.
 - [Cloudsmith](https://cloudsmith.io/l/luarocks-repository/) - A fully managed package management SaaS with support for LuaRocks (and many others).
+
 
 ### Build Tools and Standalone Makers
 - [xmake](https://xmake.io/) - A lightweight cross-platform build utility based on Lua.
@@ -142,6 +141,7 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 - [eff.lua](https://github.com/Nymphium/eff.lua) - Oneshot Algebraic Effects library implemented in coroutine.
 - [lua-radix-router](https://github.com/vm-001/lua-radix-router) - A lightweight high-performance, radix-tree tree based router library. 
 
+
 ### Game Engines
 - [LÖVE 2D](http://love2d.org/) - Desktop game development platform. Cross-platform, feature-complete, well-adopted.
 - [Corona SDK](https://coronalabs.com/) - Development platform for iOS and Android. Proprietary, but used by numerous top games and apps, totaling over 150 million downloads.
@@ -182,8 +182,10 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
   - [Mari0](https://github.com/Stabyourself/mari0) - Fusion of Mario and Portal, made with LÖVE. See also its [wikipedia entry](https://en.wikipedia.org/wiki/Mari0).
   - [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - 2D platformer based on Community's [Digital Estate Planning](https://en.wikipedia.org/wiki/Digital_Estate_Planning) episode, made with LÖVE.
 
+
 ### Game backend services
   - [PlayFab](https://github.com/PlayFab/LuaSdk) - PlayFab is a backend-as-a-service for games with support for *many* different languages and client platforms.
+
 
 ### Logging
 - [lua-log](https://github.com/moteus/lua-log) - Asynchronous logging library with pluggable writers for file system, network, ZeroMQ, and more.
@@ -436,7 +438,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 ### References
 - [Reference Manual](http://www.lua.org/manual/5.3/) - The official definition of the Lua language.
 - [lua-users wiki](http://lua-users.org/wiki/) - A large community-maintained collection of Lua information and resources, supplementing the official website.
-- [Lua Unofficial FAQ](http://www.luafaq.org/) - Answers all sorts of Lua-related questions, including many of the form 'How to ___?'.
+- [Lua Unofficial FAQ](http://www.luafaq.org/) - Answers all sorts of Lua-related questions, including many of the form `How to ___?`.
 
 
 ### Glossaries
@@ -468,6 +470,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 - [Lua Workshop Talks 2014](http://www.lua.org/wshop14.html#abstracts) - High-quality talks are given at each ~annual Lua Workshop, and a history of them is online, slides included.
 - [Lua Workshop Talks 2015](https://www.lua.org/wshop15.html#abstracts) - Recordings (and slides) of the talks from the 2015 Lua Workshop in Stockholm.
 
+
 ### Books
 - [Programming in Lua](http://www.lua.org/pil/) - The authoritative intro to all aspects of Lua programming, written by Lua's chief architect. Three editions released; first edition available online.
 - [Lua Quick Reference](https://foicica.com/lua/) - A quick reference on how to program in and embed Lua 5.1 through 5.3, by the creator of Textadept.
@@ -484,6 +487,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 ## Contribute
 
 Contributions welcome and wanted! Read the [contribution guidelines](contributing.md) first.
+
 
 ## License
 
